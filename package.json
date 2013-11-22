@@ -1,0 +1,20 @@
+{
+    "name": "Pastebin-nodejs",
+    "version": "0.2.2",
+    "description": "Node.js client library for Pastebin",
+    "contributors": [{ "name": "Ashutosh Das", "email": "areose21@gmail.com" }],
+    "homepage": "https://github.com/pyprism/Pastebin-nodejs",
+    "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "git@github.com:pyprism/Pastebin-nodejs.git"
+    },
+    "bugs": {
+    "url": "https://github.com/pyprism/Pastebin-nodejs/issues"
+    },
+    "main" : "hiren.js",
+    "dependencies": {
+        "restler" : "2.0.1"
+    },
+
+}
