@@ -1,4 +1,4 @@
-var paste = require('./pastebin.js');
+var paste = require('./pastebin');
 
 var key = "ur";
 var code = "test from nodejs";
